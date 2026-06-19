@@ -24,3 +24,9 @@ Computer Science undergraduate at Dyal Singh College, University of Delhi. Skill
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,html,css,js,vscode" />
 
 </p>
+
+## LeetCode Stats
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Akshay242-orange?logo=leetcode)](https://leetcode.com/u/Akshay242/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Akshay242?theme=dark&font=Karma&ext=heatmap)
